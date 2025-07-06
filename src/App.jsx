@@ -1,4 +1,4 @@
-import "./app.css";
+import "./index.css";
 import Canvas from "./Canvas";
 import data from "./data";
 import LocomotiveScroll from "locomotive-scroll";
